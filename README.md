@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=I3arbi-17&fontSize=70&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20Automation%20%7C%20Industrial%20Software&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:9745f5&height=220&section=header&text=I3arbi-17&fontSize=70&fontColor=bf8aff&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20Automation%20%7C%20Industrial%20Software&descSize=18&descColor=8b849e&descAlignY=55" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+software+that+bridges+code+and+hardware;From+web+interfaces+to+industrial+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+software+that+bridges+code+and+hardware;From+web+interfaces+to+industrial+automation" alt="Typing SVG" />
 </a>
 
 </div>
@@ -66,20 +66,20 @@ motto: "Code that works in the real world."
 ## `> stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I3arbi-17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I3arbi-17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=I3arbi-17&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9745f5&icon_color=bf8aff&text_color=c9d1d9&ring_color=9745f5" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I3arbi-17&layout=compact&hide_border=true&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" height="170" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=I3arbi-17&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=I3arbi-17&hide_border=true&background=0D1117&stroke=1a0533&ring=9745F5&fire=bf8aff&currStreakLabel=9745F5&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I3arbi-17&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I3arbi-17&bg_color=0d1117&color=9745f5&line=bf8aff&point=c9d1d9&area=true&area_color=1a0533&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -118,8 +118,8 @@ motto: "Code that works in the real world."
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:9745f5&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=I3arbi-17&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=I3arbi-17&style=for-the-badge&color=1a0533&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
