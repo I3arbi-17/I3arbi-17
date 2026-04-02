@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -24,7 +24,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=9745f5&color_dots=#0d1117,#1a0533,#3d1a78,#6b2fc9,#9745f5
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
