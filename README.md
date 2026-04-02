@@ -108,12 +108,8 @@ motto: "Code that works in the real world."
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I3arbi-17/I3arbi-17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/I3arbi-17/I3arbi-17/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/I3arbi-17/I3arbi-17/output/github-snake-dark.svg" />
-</picture>
+<!-- PACMAN ANIMATION -->
+<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/I3arbi-17/I3arbi-17/output/pacman-contribution-graph.svg" width="95%"/>
 
 </div>
 
